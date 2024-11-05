@@ -1,4 +1,4 @@
-# Internship_VaR-Calculation
+# Internship-VaR-Calculation
 ## Project Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automatically update the yield of fund investment products and calculate VaR, identify the differences between the existing position database and the products in the yield series to be updated and import the latest data from Wind Financial Data Terminal.
 ## Implementation
